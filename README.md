@@ -17,7 +17,7 @@ Two different intelligent players implemented by Haskell for the 5s-and-3s domin
 ## The Design
 The [Diagram](https://github.com/pokaleo/Haskell-AI-players-in-the-dominoes-game/blob/main/Diagram%20of%20The%20Original%20Design/Screenshot.png) shows how the initial design was. 
 The implementation is in the [code file](https://github.com/pokaleo/Haskell-AI-players-in-the-dominoes-game/blob/main/Code/domino.hs).
-Detail of the strategies and test results are in the PDF version of report.
+Detail of the strategies and test results are in the [PDF version of report](https://github.com/pokaleo/Haskell-AI-players-in-the-dominoes-game/blob/main/report.pdf).
 
 ## How to run
 Once the .hs file is loaded. Simply call **domsMatch** with these parameters: -player -player -roundsOfGames -randomSeed
